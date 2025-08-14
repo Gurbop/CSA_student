@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm Gurshawn Boparai
+title: CSA Student
 hide: true
 ---
 
