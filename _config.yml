@@ -1,9 +1,9 @@
 title: Open Coding 
 description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+owner_name: Gurshawn Boparai
+github_username: Gurbop 
+github_repo: "CSA_student" 
+baseurl: "/CSA_student" 
 future: true
 remote_theme: jekyll/minima
 minima:
