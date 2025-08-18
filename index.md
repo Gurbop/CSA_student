@@ -4,7 +4,7 @@ title: CSA Student
 hide: true
 ---
 
-Hi! My name is Gurshawn Boparai
+Hi! My name is Gurshawn Boparai.
 
 ### Development Environment
 
