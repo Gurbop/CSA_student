@@ -15,7 +15,7 @@ Goals:
 Problems:
 - Most of my problems happened setting up kasm
     - Some of my scripts weren't up to date like the actiate.sh, so after talking with Mr. Mortensen I got the new ones from his updated repository.
-    - My commits would keep breaking because 
+    - My commits would keep breaking because I was not writing my bundle updates to my virtual enviornment becasue my venv wasn't configured.
 - The theme of the pages was hard for me to change because I didn't know where to look. I needed to understand the repository structure better.
 
 
